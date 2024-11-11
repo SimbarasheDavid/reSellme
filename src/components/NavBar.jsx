@@ -90,6 +90,7 @@ const NavBar = () => {
                                     </div>
                                 </div>
                                 <div className="dark">
+                                    
                                     <Darkmode onClick={() => { setActive(!active) }} />
                                 </div>
                                 <div className="search">
